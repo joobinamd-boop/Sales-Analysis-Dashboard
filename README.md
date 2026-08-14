@@ -2,7 +2,7 @@
 This project analzes Amazon Sales data using Power BI to understand sales performance, product category performance, regional sales,customer contributon, quantity sold, discounts and sales trend overtime.
 The intranctive dashbord provieds a clear overview of business performance and helps identity the products, and coustomers contributing most to sales.
 ---
-#3 
+## Business Problem
 Amazon generates sales across different product categories, regions, and customers. However, analyzing large amounts of sales data manually can make it difficult to identify important trends and performance differences.
 
 The goal of this project is to answer questions such as:
