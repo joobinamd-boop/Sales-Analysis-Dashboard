@@ -1,25 +1,34 @@
-## Exclusive Summary
-This project analzes Amazon Sales data using Power BI to understand sales performance, product category performance, regional sales,customer contributon, quantity sold, discounts and sales trend overtime.
-The intranctive dashbord provieds a clear overview of business performance and helps identity the products, and coustomers contributing most to sales.
+## Executive Summary
+
+The Amazon Sales
 ---
-## Business Problem
-Amazon generates sales across different product categories, regions, and customers. However, analyzing large amounts of sales data manually can make it difficult to identify important trends and performance differences.
+## Business Performance
 
-The goal of this project is to answer questions such as:
+Amazon sales data contains information about customers, products, regions,
+sales, quantity sold, and discounts. Analyzing this data manually can make
+it difficult to identify important trends and performance differences.
 
-- How are sales changing over time?
-- Which product categories contribute the most to sales?
+This project uses Power BI to transform the sales data into an interactive
+dashboard that provides useful business insights.
+---
+### Key Business Questions
+
+- How are total sales changing over time?
+- Which customers generate the highest sales?
+- Which product categories have the highest quantity sold?
 - Which regions generate the highest sales?
-- Which customers contribute the most revenue?
-- Which regions have the highest quantity sold?
-- How are discounts distributed across the sales data?
+- How are discounts distributed across sales?
 
 ---
 
-##  Dashboard
+## Dashboard
 
+The Power BI dashboard provides an interactive view of Amazon sales
+performance.
 
-The Power BI dashboard includes:
+<img width="1428" height="797" alt="Dashboard" src="https://github.com/user-attachments/assets/34d037a6-1cad-40ed-8820-95d11296d96a" />
+
+## The Power BI dashboard includes:
 
 -  Total Sales
 -  Quantity Sold
@@ -54,3 +63,6 @@ The dashboard helps identify:
 - Data Cleaning
 - Data Visualization
 - Data Analysis
+---
+## Conclusion
+The Amazon Sales Analysis dashboard a clear and intractive view of sales performance. It helps identify important trends across customers, products, and regions suports data driven business analysis.
