@@ -1,6 +1,10 @@
 ## Executive Summary
+The Amazon Sales Analysis project explores sales performance across different
+product categories, regions, and customers using Microsoft Power BI.
 
-The Amazon Sales
+The dashboard provides an interactive view of sales performance and helps
+identify important trends, high-performing customers, product categories,
+and regional performance. 
 ---
 ## Business Performance
 
