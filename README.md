@@ -30,7 +30,7 @@ dashboard that provides useful business insights.
 The Power BI dashboard provides an interactive view of Amazon sales
 performance.
 
-<img width="1428" height="797" alt="Dashboard" src="https://github.com/user-attachments/assets/34d037a6-1cad-40ed-8820-95d11296d96a" />
+<img width="1425" height="771" alt="Amazon sales dashboard" src="https://github.com/user-attachments/assets/427026e3-8129-4f31-9386-3064e2ea9ace" />
 
 ## The Power BI dashboard includes:
 
