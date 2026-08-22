@@ -1,7 +1,6 @@
 ## Executive Summary
 The Amazon Sales Analysis project explores sales performance across different
 product categories, regions, and customers using Microsoft Power BI.
-
 The dashboard provides an interactive view of sales performance and helps
 identify important trends, high-performing customers, product categories,
 and regional performance. 
@@ -11,7 +10,6 @@ and regional performance.
 Amazon sales data contains information about customers, products, regions,
 sales, quantity sold, and discounts. Analyzing this data manually can make
 it difficult to identify important trends and performance differences.
-
 This project uses Power BI to transform the sales data into an interactive
 dashboard that provides useful business insights.
 ---
@@ -43,21 +41,24 @@ performance.
 -  Quantity Sold by Region
 -  Discount Analysis
 -  Order Date Filter
+-  Total profit
 
 ---
 
 ##  Key Insights
 
-The dashboard helps identify:
+- Total sales reached 5.94M, with total profit of 2.07M
+- Sales [performance varies across regions and product categories.
+- A few customers contribute significantly to total sales.
+- Sales show noticeable changes over different years.
+  
+---
 
-- Overall sales performance
-- Sales trends across different years
-- Best-performing product categories
-- Highest-performing regions
-- Top customers by sales
-- Quantity sold across regions and categories
-- Discount patterns
-
+## Recommendations
+- Focus on high performing regions and products to increase sales.
+- Improve the performance of low selling categories.
+- Optimize discounts to to increase sales while maintaining profit.
+  
 ---
 
 ##  Tools & Technologies
@@ -68,5 +69,7 @@ The dashboard helps identify:
 - Data Visualization
 - Data Analysis
 ---
+
 ## Conclusion
+
 The Amazon Sales Analysis dashboard a clear and intractive view of sales performance. It helps identify important trends across customers, products, and regions suports data driven business analysis.
